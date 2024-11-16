@@ -13,8 +13,8 @@ bài toán phân loại **gà** và **vịt** do trên lớp chưa tìm thấy d
 
 - **Dữ liệu đầu vào**:  
   - Ảnh và nhãn được chia thành hai tập:  
-    - **Train**: ~100 ảnh mỗi loại  
-    - **Validation**: ~100 ảnh mỗi loại  
+    - **Train**: ~80 ảnh mỗi loại  
+    - **Validation**: ~20 ảnh mỗi loại  
 
 - **Mô hình sử dụng**:  
   Sử dụng ba mô hình **ANN**, **CNN**, và **R-CNN** với tham số **batch_size = 32**.  
