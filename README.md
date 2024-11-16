@@ -26,4 +26,5 @@ bài toán phân loại **gà** và **vịt** do trên lớp chưa tìm thấy d
 
 2. **Kết quả dự đoán**:  
    - Kết quả được lưu trong thư mục `data/output`.  
-   - Ảnh test sau khi dự đoán sẽ được gán nhãn **gà** hoặc **vịt**, hiển thị trực tiếp trên từng ảnh.  
+   - Ảnh test sau khi dự đoán sẽ được gán nhãn **gà** hoặc **vịt**, hiển thị trực tiếp trên từng ảnh.
+![ANN_test2](https://github.com/user-attachments/assets/2244c63e-edfe-42b3-b1fe-5b05b5c7f8b1)
