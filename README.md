@@ -8,7 +8,8 @@
 # Thực hành: Phân loại gà và vịt
 
 ### Mô tả bài toán  
-Bài toán phân loại chó và mèo sử dụng các mô hình **ANN**, **CNN**, và **R-CNN** được chuyển đổi thành bài toán phân loại **gà** và **vịt**.  
+Bài toán phân loại chó và mèo sử dụng các mô hình **ANN**, **CNN**, và **R-CNN** được chuyển đổi thành<br>
+bài toán phân loại **gà** và **vịt** do trên lớp chưa tìm thấy dataset của dog & cat.
 
 - **Dữ liệu đầu vào**:  
   - Ảnh và nhãn được chia thành hai tập:  
